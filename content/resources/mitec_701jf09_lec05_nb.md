@@ -4,8 +4,13 @@ description: 'This resource contains the information regarding History of Develo
   (1990 - present) Millennium Development Goals.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ec-701j-d-lab-i-development-fall-2009/156c85d963d6fec583e92d2c0cc77e99_MITEC_701JF09_lec05_nb.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Course Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #5: History of Development: (1990 - present) Millennium Development
   Goals'
+type: OCWFile
 uid: 156c85d9-63d6-fec5-83e9-2d2c0cc77e99
 ---

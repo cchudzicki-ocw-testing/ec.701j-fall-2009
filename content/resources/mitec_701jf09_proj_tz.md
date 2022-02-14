@@ -4,7 +4,12 @@ description: 'This resource contains the information regarding Project team pres
   Tanzania.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ec-701j-d-lab-i-development-fall-2009/71836abd9761192a7deec2eff358ce6f_MITEC_701JF09_proj_tz.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Project team presentation: Tanzania'
+type: OCWFile
 uid: 71836abd-9761-192a-7dee-c2eff358ce6f
 ---

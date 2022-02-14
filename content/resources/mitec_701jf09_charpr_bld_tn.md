@@ -4,7 +4,11 @@ description: This resource contains the information regarding Charcoal Press Bui
   (with Teaching Notes).
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ec-701j-d-lab-i-development-fall-2009/eaf4ef2a27b8edde2c24ebe3e7b3fa04_MITEC_701JF09_charpr_bld_tn.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Document
 title: Charcoal Press Build-It (with Teaching Notes)
+type: OCWFile
 uid: eaf4ef2a-27b8-edde-2c24-ebe3e7b3fa04
 ---

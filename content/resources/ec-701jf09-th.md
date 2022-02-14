@@ -11,7 +11,9 @@ image_metadata:
     of [Brooke A. Jarrett](http://www.flickr.com/photos/d-lab/4316365877) on Flickr.)
   credit: Photo courtesy of Brooke A. Jarrett on Flickr.
   image-alt: A young boy pointing a shining flashlight at the camera.
+learning_resource_types: []
 resourcetype: Image
 title: ec-701jf09-th.jpg
+type: OCWImage
 uid: 908545db-a4bb-c314-a620-20877d2b1a84
 ---
