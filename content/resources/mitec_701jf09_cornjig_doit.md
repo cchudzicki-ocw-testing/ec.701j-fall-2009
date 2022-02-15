@@ -4,6 +4,7 @@ description: This resource contains the information regarding Corn Sheller Jig D
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ec-701j-d-lab-i-development-fall-2009/8207220daa6edaf77f94a0187bfd152b_MITEC_701JF09_cornjig_doit.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document

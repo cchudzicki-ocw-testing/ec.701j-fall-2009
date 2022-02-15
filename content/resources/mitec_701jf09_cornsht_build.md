@@ -5,6 +5,7 @@ description: This resource contains the information regarding Sheet Metal Corn S
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ec-701j-d-lab-i-development-fall-2009/bec124d9a361a9b3efc65a885b6c991c_MITEC_701JF09_cornsht_build.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document

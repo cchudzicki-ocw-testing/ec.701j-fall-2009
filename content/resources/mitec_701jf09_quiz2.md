@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ec-701j-d-la
 file_type: application/pdf
 learning_resource_types:
 - Exams
+ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
