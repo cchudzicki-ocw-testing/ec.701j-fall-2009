@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 28: Concrete'
-type: OCWFile
 uid: 35f23ab9-9273-bd89-aec0-fb3423a8f63e
 ---

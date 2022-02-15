@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 27 notes: ICT in Creativity'
-type: OCWFile
 uid: c92d9b0a-f336-9c76-eb6c-d84958120b2c
 ---

@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: "Homework 3 description: Reaction essay about E.F. Schumacher\u2019s Small\
   \ is Beautiful."
-type: OCWFile
 uid: 62c9c417-a2d4-8272-ea2a-cd7aa617c05d
 ---

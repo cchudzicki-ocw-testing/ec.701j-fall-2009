@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 7 notes: Agricultural Technologies: Irrigation'
-type: OCWFile
 uid: 7fd09e55-48af-a4ac-6325-2eb7e9f1c987
 ---

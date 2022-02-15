@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Project team presentation: Tanzania'
-type: OCWFile
 uid: 71836abd-9761-192a-7dee-c2eff358ce6f
 ---

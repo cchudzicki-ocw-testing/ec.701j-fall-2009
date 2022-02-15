@@ -9,6 +9,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: Charcoal Background Notes
-type: OCWFile
 uid: 6fe20192-17e6-001d-dd86-7bd1b3f7da6f
 ---

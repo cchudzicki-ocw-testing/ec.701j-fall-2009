@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #19: Harnessing the Wind'
-type: OCWFile
 uid: f8f5df0d-560a-70d2-b212-9a93829b5774
 ---

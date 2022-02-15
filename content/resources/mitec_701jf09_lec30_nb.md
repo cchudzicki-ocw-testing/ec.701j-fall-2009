@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 30: Evening film screening: Living with AIDS'
-type: OCWFile
 uid: 9a11dcd6-2896-041f-e2c7-b8b6620cd709
 ---

@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 1: World Fact Quiz'
-type: OCWFile
 uid: a26a4c7a-8693-7ba9-2f6c-ba8f3bc2ede1
 ---

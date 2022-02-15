@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 5 description: Project selection form'
-type: OCWFile
 uid: 0c57c479-d544-1b71-8fbc-2341edc9ab9c
 ---

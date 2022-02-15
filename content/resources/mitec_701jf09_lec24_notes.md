@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 24 notes: Micro-Enterprise Case: Grameen Phone'
-type: OCWFile
 uid: e38ee7c1-1ec3-4220-b9d8-4b2ff624d9e8
 ---

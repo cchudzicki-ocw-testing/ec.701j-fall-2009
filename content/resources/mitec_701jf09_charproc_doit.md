@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: Charcoal Process Do-It
-type: OCWFile
 uid: 0d90efa4-2fd0-29e4-87be-8891e2bf810f
 ---

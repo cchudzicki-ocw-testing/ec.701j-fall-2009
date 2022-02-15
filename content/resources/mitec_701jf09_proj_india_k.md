@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Project team presentation: India - Kokata'
-type: OCWFile
 uid: 19acdd6a-1d76-014d-6f60-02fb0e758b72
 ---

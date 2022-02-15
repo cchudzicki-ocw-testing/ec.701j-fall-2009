@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 36 notes: Sustainability and Development'
-type: OCWFile
 uid: cbbfec78-ead9-768d-340f-909b782eb858
 ---

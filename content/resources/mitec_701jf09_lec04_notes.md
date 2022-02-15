@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Appropriate and Intermediate Technology
-type: OCWFile
 uid: 6ab9b05b-9d91-8fc9-be72-e0ed4f3cb734
 ---

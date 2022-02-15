@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 3: History of Development: (1950 - 1970): The Colonial Legacy'
-type: OCWFile
 uid: 76296243-bfb0-96c9-ecac-8ee13c1df97f
 ---

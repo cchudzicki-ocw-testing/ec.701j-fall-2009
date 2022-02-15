@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 21 slides: The Role of the International Financial Institutions in
   Development'
-type: OCWFile
 uid: fde3a559-2f58-5603-0cd8-9263f0d5d0bf
 ---

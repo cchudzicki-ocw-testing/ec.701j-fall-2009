@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #27: ICT4C'
-type: OCWFile
 uid: 0f2de816-eafa-b875-438f-fc5c88edb234
 ---

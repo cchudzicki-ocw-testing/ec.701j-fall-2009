@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 2: Blank stakeholder analysis form'
-type: OCWFile
 uid: 6252adf7-82e3-5dcd-3907-0691057b3b35
 ---

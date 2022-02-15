@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 19 notes: Harnessing the Wind'
-type: OCWFile
 uid: 435ba0ff-3ff2-3655-25b1-12cc55709261
 ---

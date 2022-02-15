@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 23: Micro Enterprises'
-type: OCWFile
 uid: 7dff9aa8-1e3d-47d0-64e6-45ea4238d2c6
 ---

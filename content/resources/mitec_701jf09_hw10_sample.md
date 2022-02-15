@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 10: Sample trip proposal'
-type: OCWFile
 uid: d84f0898-bfb7-330e-1ea7-b20c0c29de47
 ---

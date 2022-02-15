@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 14 notes: Hands-On Human Power'
-type: OCWFile
 uid: eb3190b9-10ff-c940-ecd1-77bff2f14849
 ---

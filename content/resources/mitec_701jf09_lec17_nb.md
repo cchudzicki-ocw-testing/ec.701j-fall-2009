@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 17: Water Quality I'
-type: OCWFile
 uid: 07685721-3f04-34b1-a0eb-23cf4e42fe21
 ---

@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Session 13 reading: "D-Lab Technology Overview: The Photovoltaic Primer."'
-type: OCWFile
 uid: dfd9b45c-ce3e-545c-037d-86ecd8489b82
 ---

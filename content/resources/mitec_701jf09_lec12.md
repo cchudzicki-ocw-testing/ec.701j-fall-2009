@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 12 slides: Energy - biomass, biogas & biodiesel'
-type: OCWFile
 uid: 65d38d8c-eb44-667b-3b33-462d15c53582
 ---

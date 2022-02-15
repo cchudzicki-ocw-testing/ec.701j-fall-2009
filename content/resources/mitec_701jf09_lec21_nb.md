@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 21: Institutions of Development: WB and IMF'
-type: OCWFile
 uid: fe49a1e4-2d99-7832-7d55-f465ded975e0
 ---

@@ -9,6 +9,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: Sheet Metal Corn Sheller Build-It
-type: OCWFile
 uid: bec124d9-a361-a9b3-efc6-5a885b6c991c
 ---

@@ -14,6 +14,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: ec-701jf09-th.jpg
-type: OCWImage
 uid: 908545db-a4bb-c314-a620-20877d2b1a84
 ---

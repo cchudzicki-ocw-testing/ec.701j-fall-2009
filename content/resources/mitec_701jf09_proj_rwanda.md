@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Project team presentation: Rwanda'
-type: OCWFile
 uid: d049f80b-5e40-df40-2d81-27d2fbcc37ac
 ---

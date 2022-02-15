@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Role Play: Wheelchairs of the World'
-type: OCWFile
 uid: 1849bd98-153f-e8a9-e071-1f5365486b30
 ---

@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Project team presentation: Peru'
-type: OCWFile
 uid: a6b0401a-4285-2bfd-cb99-c1ceb6014c17
 ---

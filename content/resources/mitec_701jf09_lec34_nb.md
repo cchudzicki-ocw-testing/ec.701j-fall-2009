@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 34: Market Approaches to Development'
-type: OCWFile
 uid: c4526442-0a2a-2326-105b-19f3a48b598c
 ---

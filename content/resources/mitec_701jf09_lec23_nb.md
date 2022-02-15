@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 23: Microfinance'
-type: OCWFile
 uid: da4334e2-204e-67b6-7a07-26c9ece728ff
 ---

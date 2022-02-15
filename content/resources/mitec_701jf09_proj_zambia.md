@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Project team presentation: Zambia'
-type: OCWFile
 uid: 62269dce-a259-0b19-303d-f65ece9cace7
 ---

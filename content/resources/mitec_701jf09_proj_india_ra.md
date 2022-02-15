@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Project team presentation: India - Ranikhet & Avani'
-type: OCWFile
 uid: 980c9d9c-5921-6778-1ba2-c5224929e3c1
 ---

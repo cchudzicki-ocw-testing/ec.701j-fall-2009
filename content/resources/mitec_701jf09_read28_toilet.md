@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Session 28 reading: "Appropriate Toilets for Developing Countries."'
-type: OCWFile
 uid: b8dc07c1-be2f-0585-4438-589199a7b94e
 ---

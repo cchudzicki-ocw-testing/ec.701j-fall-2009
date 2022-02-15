@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #13: Energy: Sun'
-type: OCWFile
 uid: d3c55154-29e1-bbac-c25b-eda75b0e6ba4
 ---

@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #5: History of Development: (1990 - present) Millennium Development
   Goals'
-type: OCWFile
 uid: 156c85d9-63d6-fec5-83e9-2d2c0cc77e99
 ---

@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 1 notes: Introduction & World Facts Quiz'
-type: OCWFile
 uid: 63c18a59-596b-857c-8c36-48a2a5730cd5
 ---

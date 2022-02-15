@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Group assignment 4 supplement: Village profiles'
-type: OCWFile
 uid: 4b7860c4-ba72-a819-2ad1-a65eec53d7fa
 ---

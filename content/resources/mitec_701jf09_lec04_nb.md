@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture: #4, History of Development: (1970 - 1990)'
-type: OCWFile
 uid: b585b0a7-dea5-a455-a30b-6f7385c21461
 ---

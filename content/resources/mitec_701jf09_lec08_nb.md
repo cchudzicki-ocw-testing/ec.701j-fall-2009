@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 8: Projects and Partners'
-type: OCWFile
 uid: 77ebd24f-1dfe-69e9-e805-0cb3ccb36dac
 ---

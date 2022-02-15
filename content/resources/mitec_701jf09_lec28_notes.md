@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 28 notes: Creative Capacity Building & Concrete'
-type: OCWFile
 uid: bfd818ae-feac-063f-f895-b384774b9703
 ---

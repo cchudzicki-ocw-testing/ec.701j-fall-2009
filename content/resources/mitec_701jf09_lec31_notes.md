@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 31 notes: Health Issues in the Developing World'
-type: OCWFile
 uid: 9b4b19c5-968b-263b-af98-000af81795b6
 ---

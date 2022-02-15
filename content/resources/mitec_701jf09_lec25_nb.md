@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 25: Discussion of Drowned Out'
-type: OCWFile
 uid: 1f547b1c-b426-87af-372b-9718ab86122e
 ---

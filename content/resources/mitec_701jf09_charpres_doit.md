@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: Charcoal Press Do-It
-type: OCWFile
 uid: b2f366dc-9785-5eaf-63fe-34c3bdb7ee32
 ---

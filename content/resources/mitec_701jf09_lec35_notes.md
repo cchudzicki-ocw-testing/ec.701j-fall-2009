@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 35 notes: Good Development Policy?'
-type: OCWFile
 uid: 9ed2688d-cdcd-a710-e075-9f0c8565080a
 ---

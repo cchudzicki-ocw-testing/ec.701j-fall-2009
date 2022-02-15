@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #22: Institutions of Development'
-type: OCWFile
 uid: 167d3ce2-cb7e-56c2-f7c3-06c524703a5e
 ---

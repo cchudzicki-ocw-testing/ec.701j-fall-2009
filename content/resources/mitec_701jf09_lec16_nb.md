@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #16: Modeling Energy Systems'
-type: OCWFile
 uid: f9062d68-5d0a-d657-a834-7cc727fe12e9
 ---

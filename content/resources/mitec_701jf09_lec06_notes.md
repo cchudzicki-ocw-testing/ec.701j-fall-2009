@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 6 notes: Entrepreneurship, Government & Development in Africa'
-type: OCWFile
 uid: 8a10a0bc-7594-afc5-f1ed-9b644833865d
 ---

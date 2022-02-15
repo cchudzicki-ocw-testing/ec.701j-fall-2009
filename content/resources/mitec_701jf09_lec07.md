@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 7 slides: Agriculture'
-type: OCWFile
 uid: 4dbbbbc7-5ae8-94b7-1d51-ed2bd9b5fa79
 ---

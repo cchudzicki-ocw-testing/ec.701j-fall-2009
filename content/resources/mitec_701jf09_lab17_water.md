@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Other
 title: MITEC_701JF09_lab17_water.xls
-type: OCWFile
 uid: 5c37ce87-1954-f5e7-aee0-3d9e463a88b9
 ---

@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Role Play: Village Water System'
-type: OCWFile
 uid: b286e5ae-85c0-3ea4-d03c-0c0978b06159
 ---

@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 11: Agricultural focus groups'
-type: OCWFile
 uid: c9c894c7-3734-508a-1cd4-e77333253346
 ---

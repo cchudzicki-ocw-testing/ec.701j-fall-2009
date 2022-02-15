@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #36: Climate Change'
-type: OCWFile
 uid: 60577191-9d71-ed49-197d-ba85777b70aa
 ---

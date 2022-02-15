@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #35: What works: Lessons from JPAL'
-type: OCWFile
 uid: 3800cfca-c967-972c-89b6-f6ca0792f5e8
 ---

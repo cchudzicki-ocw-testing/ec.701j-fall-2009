@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 13 description: Sector paper assignment'
-type: OCWFile
 uid: ed6d46f0-8cca-66b4-31cf-5182bdfe5c49
 ---

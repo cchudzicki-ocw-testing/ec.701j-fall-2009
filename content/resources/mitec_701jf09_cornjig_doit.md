@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: Corn Sheller Jig Do-It
-type: OCWFile
 uid: 8207220d-aa6e-daf7-7f94-a0187bfd152b
 ---

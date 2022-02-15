@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Group assignment 4: Village energy assessment'
-type: OCWFile
 uid: f70e4185-5535-404f-320f-e0d3aff7f844
 ---
