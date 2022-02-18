@@ -199,7 +199,7 @@ Agricultural technology showcase: Drip irrigation
 
 Fuller, P. "[More Crop Per Drop](http://www.new-ag.info/focus/focusItem.php?a=1300)." _New Agriculturist_ (September 1, 2004).
 
-Smith, A. "D-Lab Technology Brief: Low-Cost Drip Irrigation." ([PDF]({{< baseurl >}}/resources/mitec_701jf09_read09_smith))
+Smith, A. "D-Lab Technology Brief: Low-Cost Drip Irrigation." ({{< resource_link 1a3bfd25-5b05-c71e-c279-b2513786a4e8 "PDF" >}})
 
 Film: [_Peanuts_](http://www.bullfrogfilms.com/catalog/pnuts.html) (2002)
 
@@ -251,7 +251,7 @@ Gaertner, P. "[Whether Pigs Have Wings: African Swine Fever Eradication and Pig 
 
 ### Human Rights
 
-Smaller, C. "Planting the Rights Seed: A Human Rights Perspective on Agricultural Trade and the WTO." _THREAD_, March 2005. ([PDF]({{< baseurl >}}/resources/mitec_701jf09_read11_hr1))
+Smaller, C. "Planting the Rights Seed: A Human Rights Perspective on Agricultural Trade and the WTO." _THREAD_, March 2005. ({{< resource_link cd13858e-4e89-74a5-09ae-bb2857c6b9eb "PDF" >}})
 
 Daley, J. "[Forget Fairtrade - Only Free Trade can Help Poor](http://www.telegraph.co.uk/comment/columnists/janetdaley/3555412/Forget-Fairtrade-only-free-trade-can-help-poor.html)," _Telegraph (UK)_, February 25, 2008.
 
@@ -315,7 +315,7 @@ _Guest speaker_: Jim Bales (MIT Edgerton Center)
 
 {{< tdclose >}}
 {{< tdopen >}}
-Bishop, J., J. Bales, et al. "The Photovoltaic Primer." D-Lab Technology Overview. ([PDF - 1.3MB]({{< baseurl >}}/resources/mitec_701jf09_read13_pvprmer))
+Bishop, J., J. Bales, et al. "The Photovoltaic Primer." D-Lab Technology Overview. ({{< resource_link dfd9b45c-ce3e-545c-037d-86ecd8489b82 "PDF - 1.3MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -611,7 +611,7 @@ Concrete lab
 
 {{< tdclose >}}
 {{< tdopen >}}
-Deora, A. "Toilet Talk: Appropriate Toilets for Developing Countries." ([PDF]({{< baseurl >}}/resources/mitec_701jf09_read28_toilet)) (Courtesy of Amy Deora. Used with permission.)
+Deora, A. "Toilet Talk: Appropriate Toilets for Developing Countries." ({{< resource_link b8dc07c1-be2f-0585-4438-589199a7b94e "PDF" >}}) (Courtesy of Amy Deora. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -691,7 +691,7 @@ Cultural implications of development
 
 {{< tdclose >}}
 {{< tdopen >}}
-Packing List and Tips for Traveling ([PDF]({{< baseurl >}}/resources/mitec_701jf09_read33_tips))
+Packing List and Tips for Traveling ({{< resource_link 00d08bf4-4e19-0528-1b36-8f71295c70d6 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
