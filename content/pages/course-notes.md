@@ -806,7 +806,7 @@ Team presentations
  
 {{< tdclose >}}
 {{< tdopen >}}
-See presentations on the [projects]({{< baseurl >}}/pages/projects#proj_work) page
+See presentations on the {{< resource_link 1fa3c17d-01e7-3dd2-1f9b-61e1bafe78fe "projects" "#proj_work" >}} page
 {{< tdclose >}}
 
 {{< trclose >}}
