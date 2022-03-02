@@ -137,13 +137,13 @@ As a group, your team will make a small batch of charcoal briquettes. You will f
 
 ### Group Assignment 4: Village Energy Assessment
 
-Assignment description ({{< resource_link f70e4185-5535-404f-320f-e0d3aff7f844 "PDF" >}})
+Assignment description ({{% resource_link f70e4185-5535-404f-320f-e0d3aff7f844 "PDF" %}})
 
-Village profiles ({{< resource_link 4b7860c4-ba72-a819-2ad1-a65eec53d7fa "PDF" >}})
+Village profiles ({{% resource_link 4b7860c4-ba72-a819-2ad1-a65eec53d7fa "PDF" %}})
 
 ### Group Assignment 5: Water Testing Worksheet
 
-Assignment description ({{< resource_link 2d2dc4d9-1eec-8a73-6d8a-5f0b584e1623 "PDF" >}})
+Assignment description ({{% resource_link 2d2dc4d9-1eec-8a73-6d8a-5f0b584e1623 "PDF" %}})
 
 Please complete this in your country groups, and submit one completed worksheet per group.
 
@@ -257,7 +257,7 @@ JAN. 2010 FIELD TRIP: PROJECTS, PHOTOS, REPORTS
 China
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link e3142125-ec92-4a86-d356-177cc63d4170 "PDF" >}})
+({{% resource_link e3142125-ec92-4a86-d356-177cc63d4170 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -275,7 +275,7 @@ Design workshop
 Ecuador
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 685b9cc4-395e-2021-e52c-359efc03ce37 "PDF" >}})
+({{% resource_link 685b9cc4-395e-2021-e52c-359efc03ce37 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -293,7 +293,7 @@ Drip irrigation, rainwater catchment, hydroponics, artisan project, IIH MEDIK, S
 Ghana
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link aadfd2a3-01d8-5958-bd35-528c04a52a03 "PDF - 1.3 MB" >}})
+({{% resource_link aadfd2a3-01d8-5958-bd35-528c04a52a03 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -311,7 +311,7 @@ Shea nut oil press, clay collection, well drilling
 India: Kolkata
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 19acdd6a-1d76-014d-6f60-02fb0e758b72 "PDF - 1.9MB" >}})
+({{% resource_link 19acdd6a-1d76-014d-6f60-02fb0e758b72 "PDF - 1.9MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -329,7 +329,7 @@ Pedal-powered cell phone charger, charcoal from water hyacinth, drip irrigation,
 India: Ranikhet & Avani
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 980c9d9c-5921-6778-1ba2-c5224929e3c1 "PDF" >}})
+({{% resource_link 980c9d9c-5921-6778-1ba2-c5224929e3c1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -347,7 +347,7 @@ Charcoal and stove, sanitation and hygiene, first aid lesson, solar dryer, solar
 Peru
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a6b0401a-4285-2bfd-cb99-c1ceb6014c17 "PDF" >}})
+({{% resource_link a6b0401a-4285-2bfd-cb99-c1ceb6014c17 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -365,7 +365,7 @@ Cookstoves, latrines
 Rwanda
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link d049f80b-5e40-df40-2d81-27d2fbcc37ac "PDF" >}})
+({{% resource_link d049f80b-5e40-df40-2d81-27d2fbcc37ac "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -383,7 +383,7 @@ Charcoal
 Tanzania
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 71836abd-9761-192a-7dee-c2eff358ce6f "PDF" >}})
+({{% resource_link 71836abd-9761-192a-7dee-c2eff358ce6f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -401,7 +401,7 @@ Water harvesting, secondary school workshop
 Zambia
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 62269dce-a259-0b19-303d-f65ece9cace7 "PDF" >}})
+({{% resource_link 62269dce-a259-0b19-303d-f65ece9cace7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 

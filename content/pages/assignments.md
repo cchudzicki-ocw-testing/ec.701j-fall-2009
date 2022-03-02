@@ -7,7 +7,7 @@ title: Assignments
 uid: 4be700a9-9447-0110-2347-f4cd1fdc5880
 ---
 
-This page lists the homework assignments to be done individually by each student. The group project assignments are presented on the {{< resource_link 1fa3c17d-01e7-3dd2-1f9b-61e1bafe78fe "projects" >}} page.
+This page lists the homework assignments to be done individually by each student. The group project assignments are presented on the {{% resource_link 1fa3c17d-01e7-3dd2-1f9b-61e1bafe78fe "projects" %}} page.
 
 \[Smillie\] = Smillie, Ian. _Mastering the Machine Revisited: Poverty, Aid and Technology_. Practical Action, 2000. ISBN: 9781853395147.
 
@@ -56,9 +56,9 @@ Homework 2
 
 ### Stakeholder Analysis Writeup
 
-Smith, Amy, and Shawn Frayne. "Fuel from the Fields: A Case Study of Sugarcane Charcoal Technology in Petite Anse, Haiti." D-Lab Case Study. ({{< resource_link 27575c6a-8d4f-0fed-8b82-ad0c2be60eb4 "PDF - 1.4MB" >}})
+Smith, Amy, and Shawn Frayne. "Fuel from the Fields: A Case Study of Sugarcane Charcoal Technology in Petite Anse, Haiti." D-Lab Case Study. ({{% resource_link 27575c6a-8d4f-0fed-8b82-ad0c2be60eb4 "PDF - 1.4MB" %}})
 
-Blank stakeholder analysis form ({{< resource_link 6252adf7-82e3-5dcd-3907-0691057b3b35 "PDF" >}})
+Blank stakeholder analysis form ({{% resource_link 6252adf7-82e3-5dcd-3907-0691057b3b35 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -73,7 +73,7 @@ Homework 3
 
 ### Small is Beautiful Reaction Piece
 
-Assignment description ({{< resource_link 62c9c417-a2d4-8272-ea2a-cd7aa617c05d "PDF" >}})
+Assignment description ({{% resource_link 62c9c417-a2d4-8272-ea2a-cd7aa617c05d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -109,7 +109,7 @@ Homework 5
 
 ### Country Selection
 
-Project/country selection form ({{< resource_link 0c57c479-d544-1b71-8fbc-2341edc9ab9c "PDF" >}})
+Project/country selection form ({{% resource_link 0c57c479-d544-1b71-8fbc-2341edc9ab9c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -156,7 +156,7 @@ Homework 8
 
 ### Personal Energy Consumption
 
-Energy worksheet ({{< resource_link e9d6bd65-c860-298a-5602-5d82cb37dc07 "PDF" >}})
+Energy worksheet ({{% resource_link e9d6bd65-c860-298a-5602-5d82cb37dc07 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -171,7 +171,7 @@ Homework 9
 
 ### Practical Photovoltaics Design
 
-Assignment description ({{< resource_link 34e26bb5-2efc-050d-fbc5-69ff8944fc36 "PDF" >}})
+Assignment description ({{% resource_link 34e26bb5-2efc-050d-fbc5-69ff8944fc36 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -186,9 +186,9 @@ Homework 10
 
 ### Trip Project Proposal
 
-Proposal form ({{< resource_link e739fe01-02d1-6d6e-cf4e-9159d10e79cf "PDF" >}})
+Proposal form ({{% resource_link e739fe01-02d1-6d6e-cf4e-9159d10e79cf "PDF" %}})
 
-Sample proposal ({{< resource_link d84f0898-bfb7-330e-1ea7-b20c0c29de47 "PDF" >}})
+Sample proposal ({{% resource_link d84f0898-bfb7-330e-1ea7-b20c0c29de47 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -239,7 +239,7 @@ Homework 13
 
 ### Sector Paper
 
-Assignment description ({{< resource_link ed6d46f0-8cca-66b4-31cf-5182bdfe5c49 "PDF" >}})
+Assignment description ({{% resource_link ed6d46f0-8cca-66b4-31cf-5182bdfe5c49 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -254,7 +254,7 @@ Homework 14
 
 ### Practicing Poverty
 
-Exercise and one-page paper assignment ({{< resource_link b0265fc6-013c-0a73-714d-b5ea0dba19ac "PDF" >}})
+Exercise and one-page paper assignment ({{% resource_link b0265fc6-013c-0a73-714d-b5ea0dba19ac "PDF" %}})
 
 
 {{< tdclose >}}
