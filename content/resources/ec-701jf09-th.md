@@ -16,4 +16,6 @@ ocw_type: OCWImage
 resourcetype: Image
 title: ec-701jf09-th.jpg
 uid: 908545db-a4bb-c314-a620-20877d2b1a84
+video_metadata:
+  youtube_id: null
 ---

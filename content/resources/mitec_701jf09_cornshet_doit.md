@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Sheet Metal Corn Sheller Do-It
 uid: e4fbbfbb-9958-14c1-f0b9-63a7f4caa38c
+video_metadata:
+  youtube_id: null
 ---

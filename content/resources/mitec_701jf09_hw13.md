@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 13 description: Sector paper assignment'
 uid: ed6d46f0-8cca-66b4-31cf-5182bdfe5c49
+video_metadata:
+  youtube_id: null
 ---

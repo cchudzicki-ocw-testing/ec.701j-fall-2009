@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: a2749512-298f-1014-fdda-cc33cad4ec0d
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents additional technology resources from D-Lab, [related videos](#Videos) featuring D-Lab instructors, and [development indicator statistics](#Stats) resources.

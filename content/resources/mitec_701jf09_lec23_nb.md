@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 23: Microfinance'
 uid: da4334e2-204e-67b6-7a07-26c9ece728ff
+video_metadata:
+  youtube_id: null
 ---

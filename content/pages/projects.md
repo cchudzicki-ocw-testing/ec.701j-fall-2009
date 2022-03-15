@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 1fa3c17d-01e7-3dd2-1f9b-61e1bafe78fe
+video_metadata:
+  youtube_id: null
 ---
 
 Working in small teams, students complete a sequence of eight group project assignments, culminating in a final presentation and report on the country and projects for the IAP field trip.

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 7: Agriculture '
 uid: 4fc1726d-7b75-7542-5cf8-ba5a61642c7c
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Project team presentation: Ghana'
 uid: aadfd2a3-01d8-5958-bd35-528c04a52a03
+video_metadata:
+  youtube_id: null
 ---

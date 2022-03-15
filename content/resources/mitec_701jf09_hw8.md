@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 8 description: Personal energy consumption'
 uid: e9d6bd65-c860-298a-5602-5d82cb37dc07
+video_metadata:
+  youtube_id: null
 ---

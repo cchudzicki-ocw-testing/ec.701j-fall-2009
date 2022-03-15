@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #18: Water Issues in the Developing World'
 uid: df635851-3710-70d1-71f8-6418bbe7200c
+video_metadata:
+  youtube_id: null
 ---

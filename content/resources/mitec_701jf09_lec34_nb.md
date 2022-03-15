@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 34: Market Approaches to Development'
 uid: c4526442-0a2a-2326-105b-19f3a48b598c
+video_metadata:
+  youtube_id: null
 ---

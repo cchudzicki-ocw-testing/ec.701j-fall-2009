@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Session 9 reading: "D-Lab Technology Brief: Low-Cost Drip Irrigation."'
 uid: 1a3bfd25-5b05-c71e-c279-b2513786a4e8
+video_metadata:
+  youtube_id: null
 ---

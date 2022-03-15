@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: D-Lab Travel Tips
 uid: 00d08bf4-4e19-0528-1b36-8f71295c70d6
+video_metadata:
+  youtube_id: null
 ---

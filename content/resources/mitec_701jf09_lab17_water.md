@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: MITEC_701JF09_lab17_water.xls
 uid: 5c37ce87-1954-f5e7-aee0-3d9e463a88b9
+video_metadata:
+  youtube_id: null
 ---

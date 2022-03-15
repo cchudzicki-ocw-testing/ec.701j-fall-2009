@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 8: Projects and Partners'
 uid: 77ebd24f-1dfe-69e9-e805-0cb3ccb36dac
+video_metadata:
+  youtube_id: null
 ---

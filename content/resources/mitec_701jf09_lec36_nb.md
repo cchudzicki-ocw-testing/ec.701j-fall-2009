@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #36: Climate Change'
 uid: 60577191-9d71-ed49-197d-ba85777b70aa
+video_metadata:
+  youtube_id: null
 ---

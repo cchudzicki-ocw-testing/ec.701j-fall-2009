@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Sheet Metal Corn Sheller Build-It
 uid: bec124d9-a361-a9b3-efc6-5a885b6c991c
+video_metadata:
+  youtube_id: null
 ---

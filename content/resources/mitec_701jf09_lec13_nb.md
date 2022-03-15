@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #13: Energy: Sun'
 uid: d3c55154-29e1-bbac-c25b-eda75b0e6ba4
+video_metadata:
+  youtube_id: null
 ---

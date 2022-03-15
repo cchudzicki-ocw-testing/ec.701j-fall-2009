@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 12 slides: Energy - biomass, biogas & biodiesel'
 uid: 65d38d8c-eb44-667b-3b33-462d15c53582
+video_metadata:
+  youtube_id: null
 ---

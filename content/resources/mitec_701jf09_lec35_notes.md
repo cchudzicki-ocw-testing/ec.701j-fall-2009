@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class 35 notes: Good Development Policy?'
 uid: 9ed2688d-cdcd-a710-e075-9f0c8565080a
+video_metadata:
+  youtube_id: null
 ---

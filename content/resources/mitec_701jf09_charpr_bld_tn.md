@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Charcoal Press Build-It (with Teaching Notes)
 uid: eaf4ef2a-27b8-edde-2c24-ebe3e7b3fa04
+video_metadata:
+  youtube_id: null
 ---

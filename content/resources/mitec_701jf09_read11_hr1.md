@@ -13,4 +13,6 @@ resourcetype: Document
 title: 'Session 11 reading: "Planting the Rights Seed: A human rights perspective
   on agricultural trade and the WTO."'
 uid: cd13858e-4e89-74a5-09ae-bb2857c6b9eb
+video_metadata:
+  youtube_id: null
 ---

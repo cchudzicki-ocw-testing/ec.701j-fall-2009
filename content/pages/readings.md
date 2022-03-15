@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: c2765c9d-b1b0-3d75-c630-7ad2f38ee68d
+video_metadata:
+  youtube_id: null
 ---
 
 This page includes several films and videos assigned for the class as well as assigned readings.

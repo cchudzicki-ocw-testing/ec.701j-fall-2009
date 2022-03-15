@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Charcoal Press Built-It
 uid: 3f9b30e8-b2d8-afa8-9131-3ce136f121f5
+video_metadata:
+  youtube_id: null
 ---

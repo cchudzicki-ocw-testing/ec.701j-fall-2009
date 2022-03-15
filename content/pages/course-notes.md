@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Course Notes
 uid: bfc4142b-703b-6e39-38b0-36308da800ae
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents lecture materials in several forms:

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 1 slides: Course introduction'
 uid: 42e4332e-727d-8b71-1de1-3cf8eff712f0
+video_metadata:
+  youtube_id: null
 ---

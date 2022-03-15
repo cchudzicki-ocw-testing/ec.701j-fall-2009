@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 11: Agricultural focus groups'
 uid: c9c894c7-3734-508a-1cd4-e77333253346
+video_metadata:
+  youtube_id: null
 ---

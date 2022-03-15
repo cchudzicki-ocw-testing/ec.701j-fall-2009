@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Role Play: Wheelchairs of the World'
 uid: 1849bd98-153f-e8a9-e071-1f5365486b30
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 2 slides: D-Lab philosophy, stakeholder analysis'
 uid: 66ddec95-3669-b82e-7be6-de608d7751c6
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class 5 notes: Participatory Development & Co-Creation'
 uid: d222dae3-3335-1bcf-d163-c13655fcc70b
+video_metadata:
+  youtube_id: null
 ---

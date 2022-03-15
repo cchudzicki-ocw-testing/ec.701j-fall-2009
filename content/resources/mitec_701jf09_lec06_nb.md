@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 6: Entrepreneurship, Government, and Development in Africa'
 uid: df2f5b15-3046-0f87-0b6e-ec94c4b4297f
+video_metadata:
+  youtube_id: null
 ---

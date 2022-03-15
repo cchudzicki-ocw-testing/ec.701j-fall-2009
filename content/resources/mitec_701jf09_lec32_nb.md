@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #32: Team Presentations'
 uid: b75bdea2-8f77-112f-5aeb-c1c844b90ae0
+video_metadata:
+  youtube_id: null
 ---

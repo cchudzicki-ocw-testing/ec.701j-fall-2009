@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 4be700a9-9447-0110-2347-f4cd1fdc5880
+video_metadata:
+  youtube_id: null
 ---
 
 This page lists the homework assignments to be done individually by each student. The group project assignments are presented on the {{% resource_link 1fa3c17d-01e7-3dd2-1f9b-61e1bafe78fe "projects" %}} page.

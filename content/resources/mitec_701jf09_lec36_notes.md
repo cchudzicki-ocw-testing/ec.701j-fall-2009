@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class 36 notes: Sustainability and Development'
 uid: cbbfec78-ead9-768d-340f-909b782eb858
+video_metadata:
+  youtube_id: null
 ---

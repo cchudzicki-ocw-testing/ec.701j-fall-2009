@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 1: World Fact Quiz'
 uid: a26a4c7a-8693-7ba9-2f6c-ba8f3bc2ede1
+video_metadata:
+  youtube_id: null
 ---

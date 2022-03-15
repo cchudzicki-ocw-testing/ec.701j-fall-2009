@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Project team presentation: Zambia'
 uid: 62269dce-a259-0b19-303d-f65ece9cace7
+video_metadata:
+  youtube_id: null
 ---

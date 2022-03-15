@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #16: Modeling Energy Systems'
 uid: f9062d68-5d0a-d657-a834-7cc727fe12e9
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 31: Health Issues in the Developing World'
 uid: bebac8c2-f790-5500-a78b-b90841c69311
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class 34 notes: Market Approaches to Development'
 uid: 8c7bfd37-db1e-aed8-5898-6bfa28ffe38f
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class 25 notes: Human Rights & Development Planning'
 uid: 3c617d5a-ad9c-1972-82f4-6b2407953eb3
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #22: Institutions of Development'
 uid: 167d3ce2-cb7e-56c2-f7c3-06c524703a5e
+video_metadata:
+  youtube_id: null
 ---

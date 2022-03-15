@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Charcoal Press Do-It
 uid: b2f366dc-9785-5eaf-63fe-34c3bdb7ee32
+video_metadata:
+  youtube_id: null
 ---

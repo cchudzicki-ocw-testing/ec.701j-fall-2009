@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Project team presentation: Ecuador'
 uid: 685b9cc4-395e-2021-e52c-359efc03ce37
+video_metadata:
+  youtube_id: null
 ---

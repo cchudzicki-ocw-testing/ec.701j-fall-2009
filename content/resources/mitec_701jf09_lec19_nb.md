@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #19: Harnessing the Wind'
 uid: f8f5df0d-560a-70d2-b212-9a93829b5774
+video_metadata:
+  youtube_id: null
 ---

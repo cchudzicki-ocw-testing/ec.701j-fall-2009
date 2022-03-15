@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: 667e5689-8ac5-9e52-786e-f14b1644ed99
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents one of the two quizzes given during the class.

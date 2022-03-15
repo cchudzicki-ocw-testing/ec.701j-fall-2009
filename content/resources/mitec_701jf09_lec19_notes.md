@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class 19 notes: Harnessing the Wind'
 uid: 435ba0ff-3ff2-3655-25b1-12cc55709261
+video_metadata:
+  youtube_id: null
 ---

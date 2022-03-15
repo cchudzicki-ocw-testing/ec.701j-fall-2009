@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Corn Sheller Background Notes
 uid: 02951d32-7e7c-a7b5-935d-a1f471424608
+video_metadata:
+  youtube_id: null
 ---

@@ -13,4 +13,6 @@ resourcetype: Document
 title: 'Lecture 37: Panel discussion with Special Program for Urban and Regional Studies
   (SPURS) fellows'
 uid: 0eb32c78-f801-d5d1-155d-2089fa534364
+video_metadata:
+  youtube_id: null
 ---

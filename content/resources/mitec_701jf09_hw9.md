@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 9 description: Practical photovoltaics design'
 uid: 34e26bb5-2efc-050d-fbc5-69ff8944fc36
+video_metadata:
+  youtube_id: null
 ---

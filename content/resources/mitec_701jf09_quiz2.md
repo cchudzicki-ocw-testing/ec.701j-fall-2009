@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Quiz 2
 uid: 89e0db13-e85e-e8a3-3f07-fd6ffa6eb616
+video_metadata:
+  youtube_id: null
 ---

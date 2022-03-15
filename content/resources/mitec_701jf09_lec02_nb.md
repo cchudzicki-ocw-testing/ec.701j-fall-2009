@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 2: D-Lab Philosophy of Development'
 uid: d9b84500-77ed-2ae4-71c0-66b6998f703d
+video_metadata:
+  youtube_id: null
 ---

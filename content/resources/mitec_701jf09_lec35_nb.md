@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #35: What works: Lessons from JPAL'
 uid: 3800cfca-c967-972c-89b6-f6ca0792f5e8
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 28: Concrete'
 uid: 35f23ab9-9273-bd89-aec0-fb3423a8f63e
+video_metadata:
+  youtube_id: null
 ---

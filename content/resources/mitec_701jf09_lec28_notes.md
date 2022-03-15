@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class 28 notes: Creative Capacity Building & Concrete'
 uid: bfd818ae-feac-063f-f895-b384774b9703
+video_metadata:
+  youtube_id: null
 ---

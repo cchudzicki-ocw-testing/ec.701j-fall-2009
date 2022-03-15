@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Charcoal Background Notes
 uid: 6fe20192-17e6-001d-dd86-7bd1b3f7da6f
+video_metadata:
+  youtube_id: null
 ---

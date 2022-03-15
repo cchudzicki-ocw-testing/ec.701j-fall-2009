@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Corn Sheller Jig Do-It
 uid: 8207220d-aa6e-daf7-7f94-a0187bfd152b
+video_metadata:
+  youtube_id: null
 ---

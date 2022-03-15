@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 9: More Projects and Partners '
 uid: 55816efb-acfb-949a-5df7-1ee423207a67
+video_metadata:
+  youtube_id: null
 ---

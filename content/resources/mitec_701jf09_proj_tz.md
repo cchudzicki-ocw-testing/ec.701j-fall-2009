@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Project team presentation: Tanzania'
 uid: 71836abd-9761-192a-7dee-c2eff358ce6f
+video_metadata:
+  youtube_id: null
 ---

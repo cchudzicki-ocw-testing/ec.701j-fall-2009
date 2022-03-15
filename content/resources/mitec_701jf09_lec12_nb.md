@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 12: Energy: Biomass, Biogas and Biodiesel'
 uid: fabe5c36-c1d5-caca-c494-8f913108fd1a
+video_metadata:
+  youtube_id: null
 ---

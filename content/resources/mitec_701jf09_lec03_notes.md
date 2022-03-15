@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class 3 notes: The Colonial Legacy'
 uid: 4bb4872e-5911-ad27-1e84-5bf28411dcb1
+video_metadata:
+  youtube_id: null
 ---

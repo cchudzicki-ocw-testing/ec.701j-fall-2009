@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class 14 notes: Hands-On Human Power'
 uid: eb3190b9-10ff-c940-ecd1-77bff2f14849
+video_metadata:
+  youtube_id: null
 ---

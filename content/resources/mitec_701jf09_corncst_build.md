@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Cast Corn Sheller Build-It
 uid: d0b041ec-9af1-cf0a-4b86-d498f4af9098
+video_metadata:
+  youtube_id: null
 ---

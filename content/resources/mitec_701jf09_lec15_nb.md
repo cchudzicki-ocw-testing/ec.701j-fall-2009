@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 15: Energy: Wind and Water'
 uid: 32821893-6680-7690-b0c9-2369a2dabc78
+video_metadata:
+  youtube_id: null
 ---

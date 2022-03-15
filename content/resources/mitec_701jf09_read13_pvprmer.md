@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Session 13 reading: "D-Lab Technology Overview: The Photovoltaic Primer."'
 uid: dfd9b45c-ce3e-545c-037d-86ecd8489b82
+video_metadata:
+  youtube_id: null
 ---

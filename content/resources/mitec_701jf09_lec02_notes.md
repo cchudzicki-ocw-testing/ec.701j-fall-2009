@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class 2 notes: Stakeholder Analysis & Participation'
 uid: 5c07c84b-fe76-0c17-8817-8a78208efc89
+video_metadata:
+  youtube_id: null
 ---

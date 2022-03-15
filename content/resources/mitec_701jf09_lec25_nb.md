@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 25: Discussion of Drowned Out'
 uid: 1f547b1c-b426-87af-372b-9718ab86122e
+video_metadata:
+  youtube_id: null
 ---

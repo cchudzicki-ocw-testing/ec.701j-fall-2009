@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 21: Institutions of Development: WB and IMF'
 uid: fe49a1e4-2d99-7832-7d55-f465ded975e0
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Group assignment 5: Water testing worksheet'
 uid: 2d2dc4d9-1eec-8a73-6d8a-5f0b584e1623
+video_metadata:
+  youtube_id: null
 ---

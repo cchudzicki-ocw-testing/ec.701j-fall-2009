@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class 31 notes: Health Issues in the Developing World'
 uid: 9b4b19c5-968b-263b-af98-000af81795b6
+video_metadata:
+  youtube_id: null
 ---

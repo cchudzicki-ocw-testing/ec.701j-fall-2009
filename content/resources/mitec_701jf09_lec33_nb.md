@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #33: Valuing Indigenous knowledge'
 uid: bbd3a84d-14b4-0527-c623-5458d04565a4
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 5 description: Project selection form'
 uid: 0c57c479-d544-1b71-8fbc-2341edc9ab9c
+video_metadata:
+  youtube_id: null
 ---

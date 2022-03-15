@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 35 slides: What works - lessons from J-PAL'
 uid: 053536de-2544-c500-9f22-38a701ef2826
+video_metadata:
+  youtube_id: null
 ---

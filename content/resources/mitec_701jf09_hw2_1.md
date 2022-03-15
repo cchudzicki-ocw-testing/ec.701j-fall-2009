@@ -14,4 +14,6 @@ resourcetype: Document
 title: "Homework 2: D-Lab Case Study, \u2018Fuel from the Fields: A Case Study of\
   \ Sugarcane Charcoal Technology in Petite Anse, Haiti.\u2019"
 uid: 27575c6a-8d4f-0fed-8b82-ad0c2be60eb4
+video_metadata:
+  youtube_id: null
 ---

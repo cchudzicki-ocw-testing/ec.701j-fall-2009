@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture #24: Micro-Enterprise Case Study: Grameen Phone'
 uid: a80e7f49-5a4b-ff54-0863-24848c4f8ebb
+video_metadata:
+  youtube_id: null
 ---

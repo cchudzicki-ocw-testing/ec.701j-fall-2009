@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 3 slides: History of Development 1950-1970 - Colonial Legacy'
 uid: ecf2d296-20f6-d57d-e094-6f9a71536b05
+video_metadata:
+  youtube_id: null
 ---

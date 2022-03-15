@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 5 slides: Participatory development and co-creation'
 uid: 9339b0a5-b39a-a7a7-759b-e043cc097f7b
+video_metadata:
+  youtube_id: null
 ---

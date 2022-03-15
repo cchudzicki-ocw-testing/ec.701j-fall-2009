@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class 1 notes: Introduction & World Facts Quiz'
 uid: 63c18a59-596b-857c-8c36-48a2a5730cd5
+video_metadata:
+  youtube_id: null
 ---
