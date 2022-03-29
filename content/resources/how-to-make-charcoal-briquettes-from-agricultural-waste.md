@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: How to Make Charcoal Briquettes from Agricultural Waste
 uid: 62e2cdb4-f86e-110d-7b0b-9a4c4375e099
 video_files:
