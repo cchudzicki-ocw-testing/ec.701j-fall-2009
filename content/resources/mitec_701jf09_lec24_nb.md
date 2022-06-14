@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Micro-Enterprise Case
   Study: Grameen Phone.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ec-701j-d-lab-i-development-fall-2009/a80e7f495a4bff54086324848c4f8ebb_MITEC_701JF09_lec24_nb.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/a80e7f495a4bff54086324848c4f8ebb_MITEC_701JF09_lec24_nb.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -16,3 +16,4 @@ uid: a80e7f49-5a4b-ff54-0863-24848c4f8ebb
 video_metadata:
   youtube_id: null
 ---
+This resource contains the information regarding Micro-Enterprise Case Study: Grameen Phone.

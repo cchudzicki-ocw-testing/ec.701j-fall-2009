@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Microfinance.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ec-701j-d-lab-i-development-fall-2009/da4334e2204e67b67a0726c9ece728ff_MITEC_701JF09_lec23_nb.pdf
+file: /courses/ec-701j-d-lab-i-development-fall-2009/da4334e2204e67b67a0726c9ece728ff_MITEC_701JF09_lec23_nb.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -15,3 +15,4 @@ uid: da4334e2-204e-67b6-7a07-26c9ece728ff
 video_metadata:
   youtube_id: null
 ---
+This resource contains the information regarding Microfinance.
