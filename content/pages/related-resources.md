@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents additional technology resources from D-Lab, related
+  videos featuring D-Lab instructors, and development indicator statistics resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

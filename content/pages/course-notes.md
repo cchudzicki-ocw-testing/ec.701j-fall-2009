@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section presents the course lecture notes (selected slides, notebooks,
+  and detailed notes), along with documentation for in-class labs and activities and
+  supporting materials.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

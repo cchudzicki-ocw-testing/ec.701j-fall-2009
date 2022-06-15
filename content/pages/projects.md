@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page summarizes project objectives, lists group-based assignments,
+  and presents examples of student work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

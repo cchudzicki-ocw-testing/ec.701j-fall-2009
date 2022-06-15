@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes several films and videos assigned for the class
+  as well as assigned readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

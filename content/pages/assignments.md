@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents the individual homework assignments for the course,
+  which are designed to complement the team-based project work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
