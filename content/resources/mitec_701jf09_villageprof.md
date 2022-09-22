@@ -6,6 +6,7 @@ file: /courses/ec-701j-d-lab-i-development-fall-2009/4b7860c4ba72a8192ad1a65eec5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
